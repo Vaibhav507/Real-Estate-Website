@@ -895,11 +895,7 @@ body.dark-theme {
   bottom: 8rem;
 }
 
-/*=============== BREAKPOINTS ===============*/
-/*
-  max-width: 320    =>   para pantallas menor o igual a 320
-  min-width: 576    =>   para pantallas mayor o igual a 576
-*/
+
 
 /* For small devices */
 @media screen and (max-width: 350px) {
